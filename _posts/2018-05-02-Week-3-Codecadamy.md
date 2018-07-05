@@ -1,8 +1,8 @@
 ---
-title: Week 3 Codecadamy
+title: Lesson 1
 layout: post
 author: timothy.lomax
-permalink: /week-3-codecadamy/
+permalink: /Lesson-1/
 source-id: 1a0IFkwu91eImNM_6CuiT5aKv7LPHTHhH_rEzUWgMO2c
 published: true
 ---
